@@ -15,7 +15,5 @@ geändert habe ich allerdings nur den dmg-wert von sword
 4. Ordnerstruktur herstellen (doppelten src entfernen, spotless und tests konfiguieren (template benutzen)
 
 # JUnit
-1. Testklassen werden nicht ins passende Verzeichnis gebracht außerdem kennt er die Libarys nicht...
-
-An dieser Stelle weis ich nicht wie ich weiter arbeiten soll, außerdem wird mir nicht klar von welchen für die CI Aufgabe gesprochen wird, wir haben hier doch garnicht mit Git gearbeitet im Katzen-Café...
-
+Die von mir verwendeten Testfälle testen die Funktionalität der Methoden und Prüfen ob der zurückgegebene Wert
+der  Erwartung enspricht
